@@ -17,8 +17,9 @@ Professional Samsung One UI design system implementation for Flutter. Create bea
 - ✅ **Responsive** - Optimized for all screen sizes
 
 ## 📱 Screenshots
+<img width="369" height="750" alt="Screenshot 2026-01-30 at 10 26 10" src="https://github.com/user-attachments/assets/9da0ea03-1da2-4c2d-b1d9-8feca061511b" />
+<img width="397" height="752" alt="Screenshot 2026-01-30 at 10 26 26" src="https://github.com/user-attachments/assets/8522057e-d3e3-42c6-afc6-d6da8bbe8fcd" />
 
-<img src="screenshots/light_mode.png" width="300" /> <img src="screenshots/dark_mode.png" width="300" />
 
 ## 🚀 Getting Started
 
